@@ -1,0 +1,1 @@
+Созданы классы **MainActivity, SettingsActivity, SearchActivity**
